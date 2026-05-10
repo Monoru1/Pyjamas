@@ -1,0 +1,35 @@
+[
+  {
+    "id": "christmas-family-001",
+    "name": "Pyjama Famille Noël",
+    "category": "Famille",
+    "price": "Sur demande",
+    "badge": "Noël",
+    "description": "Un ensemble chaleureux pour créer des souvenirs de fêtes en famille.",
+    "sizes": ["Enfant", "S", "M", "L", "XL"],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "soft-women-001",
+    "name": "Pyjama Femme Douce Nuit",
+    "category": "Femme",
+    "price": "Sur demande",
+    "badge": "Best-seller",
+    "description": "Une pièce douce, élégante et confortable pour les soirées cocooning.",
+    "sizes": ["S", "M", "L", "XL"],
+    "available": true,
+    "featured": true
+  },
+  {
+    "id": "kids-cozy-001",
+    "name": "Pyjama Enfant Cozy",
+    "category": "Enfant",
+    "price": "Sur demande",
+    "badge": "Coup de coeur",
+    "description": "Confort, douceur et liberté de mouvement pour les enfants.",
+    "sizes": ["2 ans", "4 ans", "6 ans", "8 ans", "10 ans"],
+    "available": true,
+    "featured": false
+  }
+]
