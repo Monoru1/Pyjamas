@@ -3,13 +3,16 @@ import Footer from '@/components/Footer'
 import ProductSection from '@/components/ProductSection'
 import ChristmasSection from '@/components/ChristmasSection'
 import InstagramSection from '@/components/InstagramSection'
+import TikTokSection from '@/components/TikTokSection'
+import AnnouncementBar from '@/components/AnnouncementBar'
 
 export default function HomePage() {
   return (
     <main id="top" className="min-h-screen overflow-hidden bg-night text-cream">
+      <AnnouncementBar />
       <Navbar />
 
-      <section className="relative flex min-h-screen flex-col items-center justify-center px-4 pb-16 pt-28 text-center sm:px-6 lg:px-8 bg-heroGlow">
+      <section className="relative flex min-h-screen flex-col items-center justify-center px-4 pb-16 pt-36 text-center sm:px-6 lg:px-8 bg-heroGlow">
         <div className="absolute inset-0 opacity-20 bg-[radial-gradient(circle_at_top,rgba(255,255,255,0.15),transparent_50%)]" />
         <div className="absolute inset-0 opacity-[0.06] noise" />
 
@@ -81,6 +84,7 @@ export default function HomePage() {
 
       <ProductSection />
       <ChristmasSection />
+      <TikTokSection />
 
       <section id="maison" className="border-y border-white/10 px-4 py-20 sm:px-6 sm:py-24 lg:px-8">
         <div className="mx-auto grid max-w-6xl gap-12 md:grid-cols-2 md:items-center md:gap-16">
