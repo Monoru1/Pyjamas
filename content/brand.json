@@ -1,0 +1,26 @@
+{
+  "name": "La Maison des Pyjamas",
+  "city": "Cotonou",
+  "country": "Benin",
+  "theme": "Christmas Cozy Premium",
+  "description": "Boutique spécialisée dans les pyjamas et le confort familial à Cotonou.",
+  "slogans": [
+    "Le confort de Noël commence ici.",
+    "Dormez dans la magie des fêtes.",
+    "Des pyjamas pour toute la famille."
+  ],
+  "colors": {
+    "pink": "#E91786",
+    "black": "#080808",
+    "cream": "#FFF8F0",
+    "red": "#B11226",
+    "green": "#0F5132",
+    "gold": "#D8B86A"
+  },
+  "socials": {
+    "instagram": "",
+    "tiktok": "",
+    "facebook": "",
+    "whatsapp": ""
+  }
+}
