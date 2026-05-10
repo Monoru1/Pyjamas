@@ -1,0 +1,9 @@
+{
+  "name": "La Maison des Pyjamas",
+  "short_name": "Pyjamas",
+  "theme_color": "#080808",
+  "background_color": "#080808",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": []
+}
