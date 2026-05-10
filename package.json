@@ -6,6 +6,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "latest",
     "autoprefixer": "latest",
     "framer-motion": "latest",
     "lucide-react": "latest",
